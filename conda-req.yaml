@@ -1,0 +1,17 @@
+name: cs144
+
+channels:
+    - conda-forge
+
+dependencies:
+    - gcc=13.3
+    - gxx=13.3
+
+    - make
+    - cmake
+    - gdb
+    - git
+    - clang-format
+    - libpcap
+    - doxygen
+

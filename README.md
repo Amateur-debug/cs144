@@ -1,5 +1,12 @@
 For build prereqs, see [the CS144 VM setup instructions](https://web.stanford.edu/class/cs144/vm_howto).
 
+## Environment setup
+
+I provide a conda environment file to original lab repository for setting up the environment:
+
+	$ conda env create -f conda-req.yaml
+	$ conda activate cs144
+
 ## Sponge quickstart
 
 To set up your build directory:
